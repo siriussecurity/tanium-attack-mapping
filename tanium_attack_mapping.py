@@ -1,3 +1,11 @@
+"""
+Tanium ATT&CK mapping
+Author: Ruben Bouman, Sirius Security
+License: GPL-3.0 License
+Reference:
+https://www.siriussecurity.nl/blog/2021/6/2/mapping-vendor-products-to-mitre-attack-tanium
+"""
+
 import json
 from datetime import datetime
 from constants import *
